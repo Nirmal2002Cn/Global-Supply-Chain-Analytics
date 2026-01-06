@@ -3,7 +3,7 @@
 ### Executive Summary
 This end-to-end Business Intelligence project analyzes global supply chain logistics data to identify shipping inefficiencies, cost drivers, and vendor performance. The dashboard serves as a "Control Tower" for supply chain managers, providing real-time visibility into shipment reliability, costs, and manufacturing hubs.
 
-![Dashboard Preview](Global_Supplychain_Dashboard.png)
+
 
 ### 📂 Repository Structure
 * **`Supply Chain & Shipment Pricing.pbix`**: The main Power BI file containing the dashboard, data model, and DAX measures.
